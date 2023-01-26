@@ -75,7 +75,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  color: #421cecf5;
 }
 header .navbar ul{
   list-style: none;
@@ -166,7 +166,7 @@ header .navbar ul li a:hover{
   padding: 1rem;
 }
 .work .heading span{
-  color: rgb(255, 230, 0);
+  color: #421cecf5;
 }
 .work .box-container{
   display: flex;
@@ -206,7 +206,7 @@ header .navbar ul li a:hover{
   height: 4.5rem;
   width: 100%;
   padding-left: 1rem;
-  background: #ffd900;
+  background: #421cecf5;
 }
 .work .box-container .box .content .tag h3{
   font-size: 2rem;
@@ -408,8 +408,8 @@ header .navbar ul li a:hover{
   right: 2rem;
   padding: 1rem 1.5rem;
   font-size: 2rem;
-  background: #ffae00;
-  color: rgb(13, 0, 44);
+  background: #421cecf5;
+  color: rgb(235, 233, 239);
   border-radius: 5rem;
   transition: 1s linear;
   z-index: 1000;
