@@ -177,12 +177,12 @@ header .navbar ul li a:hover{
 .work .box-container .box{
   flex:1 1 30rem;
   border-radius: .5rem;
-  box-shadow: 0 .7rem 1rem rgba(0,0,0,.3);
+  box-shadow: 0 .5rem 1rem rgba(225, 219, 219, 0.895);
   position: relative;
   overflow:hidden;
   height:30rem;
   background: #fff;
-  border: none;
+  border: #fff;
 }
 .work .box-container .box img{
   height: 100%;
