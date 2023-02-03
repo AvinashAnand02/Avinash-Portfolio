@@ -138,6 +138,24 @@ fetchData().then(data => {
     showSkills(data);
 });
 
+$("#contact-form").submit(function (event) {
+    //event.preventdefault();
+    
+    event.preventDefault();
+    emailjs.init("3EvNyKZKcMLcyTKQN");
+    console.log("form submitted");
+    emailjs.sendForm('service_xol5sv7', 'template_133u14v', '#contact-form')
+        .then(function (response) {
+            console.log('SUCCESS!', response.status, response.text);
+            document.getElementById("contact-form").reset();
+            alert("Form Submitted Successfully");
+        }, function (error) {
+            console.log('FAILED...', error);
+            alert("Form Submission Failed! Try Again");
+        });
+    
+});
+
 /* ===== SCROLL REVEAL ANIMATION ===== */
 const srtop = ScrollReveal({
     origin: 'top',
