@@ -14,6 +14,14 @@
     <link id='favicon' rel="shortcut icon" href="./assests/images/favicon.png" type="image/x-png">
     <title>Portfolio | Avinash Anand </title>
     
+    <!-- emailjs script -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <script type="text/javascript">
+      (function(){
+         emailjs.init("3EvNyKZKcMLcyTKQN");
+      })();
+   </script>
+    
 </head>
 <body oncontextmenu="return false">
 
@@ -505,7 +513,7 @@
       <div class="image-box">
         <img draggable="false" src="./assests/images/contact1.png" alt="">
       </div>
-    <form action="https://forms.office.com/r/eUDsJdZ9Bm">
+    <form id="contact-form">
       
       <div class="form-group">
         <div class="field">
