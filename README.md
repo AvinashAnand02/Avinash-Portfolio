@@ -1,4 +1,4 @@
-AvinashAnand02/Avinash-Portfolio## Portfolio-Website
+## Portfolio-Website
 
 <a href="https://github.com/AvinashAnand02/Avinash-Portfolio"><img src="https://sloc.xyz/github/AvinashAnand02/Avinash-Portfolio" alt="LOC"/></a>
 <a href="https://github.com/AvinashAnand02/Avinash-Portfolio"><img src="https://img.shields.io/github/stars/AvinashAnand02/Avinash-Portfolio" alt="Stars Badge"/></a>
@@ -17,11 +17,9 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
-#### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
-
 ## 📌 Sneak Peek of Main Page:
-![mockup720](https://github.com/AvinashAnand02/Avinash-Portfolio/blob/main/assests/images/Screenshot%20(214).png)
-![skillsmockup](https://github.com/AvinashAnand02/Avinash-Portfolio/blob/main/assests/images/Screenshot%20(215).png)
+![mockup720](https://github.com/AvinashAnand02/Avinash-Portfolio/blob/main/assests/images/Screenshot%20(5).png)
+![skillsmockup](https://github.com/AvinashAnand02/Avinash-Portfolio/blob/main/assests/images/Screenshot%20(6).png)
 
 
 <h2>📬 Contact</h2>
