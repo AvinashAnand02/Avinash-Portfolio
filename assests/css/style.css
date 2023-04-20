@@ -1222,7 +1222,7 @@ form .button-area{
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
-section {
+/* section {
   padding: 60px 0;
   overflow: hidden;
 }
@@ -1266,4 +1266,4 @@ section {
 
 .section-title p {
   margin-bottom: 0;
-}
+} */
