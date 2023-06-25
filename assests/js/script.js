@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Front End Devloper", "Back End Devloper", "Machine Learning"],
+        strings: ["Front End Devloper", "Back End Devloper", "Web Design"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
