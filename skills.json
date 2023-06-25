@@ -20,6 +20,18 @@
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
+        "name": "MaterialUI",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
         "name": "Java",
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
@@ -44,7 +56,15 @@
         "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/?size=51&id=nMeAkcoE7aTF&format=png"
+    },
+    {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Team Work",
+        "icon": "https://img.icons8.com/color/48/000000/teamwork.png"
     }   
 ]
