@@ -150,7 +150,7 @@ $("#contact-form").submit(function (event) {
     //event.preventdefault();
 
     event.preventDefault();
-    emailjs.init("3EvNyKZKcMLcyTKQN");
+    emailjs.init("fj3ntH4Rr45QiA-gc");
     console.log("form submitted");
     emailjs.sendForm('service_xol5sv7', 'template_133u14v', '#contact-form')
         .then(function (response) {
